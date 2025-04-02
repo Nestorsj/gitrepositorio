@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Fichero repo1
 Nuevo dato repo1
 Añado otro dato a fichero repo1
+=======
+Cambio1 desde la rama pruebas
+Otro cambio desde pruebas
+>>>>>>> c8ba6e2954cc4465da28bd1c0a10e3d199c98154
